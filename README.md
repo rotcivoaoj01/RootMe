@@ -1,4 +1,4 @@
-```
+
 # Write-up: TryHackMe - RootMe
 
 Este laboratório consistia em um CTF focado em upload de arquivos maliciosos (Reverse Shell) e escalação de privilégios.
