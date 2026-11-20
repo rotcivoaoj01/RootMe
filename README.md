@@ -17,7 +17,7 @@ A varredura revelou duas portas abertas: a **22 (SSH)** e a **80 (HTTP)**. Em se
 gobuster dir -u http://10.113.182.238 -w /usr/share/wordlists/Discovery/Web-Content/common.txt
 ```
 
-<img width="958" height="984" alt="1" src="https://github.com/user-attachments/assets/a46e51dc-f442-4f3f-827b-92bf8b3d47d9" />
+<img width="958" height="945" alt="1" src="https://github.com/user-attachments/assets/25b74c0d-9a81-42a1-8c8c-8c56252667a7" />
 
 
 ## 2. Exploração (Upload e Reverse Shell)
